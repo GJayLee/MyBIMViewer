@@ -1,2 +1,2 @@
 # MyBIMViewer
-利用IFCEnginerDll解析IFC文件，得到IFC文件中几何信息和属性信息，然后利用OpenScenegraph作为渲染引擎把几何信息渲染出来
+读取IVE模型，然后利用OpenScenegraph作为渲染引擎把几何信息渲染出来
